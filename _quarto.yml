@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Website"
+  navbar:
+    background: dark
+    search: false
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - data_code.qmd
+      - CV.qmd
+    # tools:
+    #   - icon: linkedin
+    #     menu:
+    #       - text: Profile
+    #         href: https://www.linkedin.com/in/xolanisibande/
+    #   - icon: github
+    #     menu:
+    #       - text: Profile
+    #         href:  https://github.com/xolaniss
+    #   - icon: email
+    #     menu:
+    #       - text: Email
+    #         href: mailto:xolaniss@gmail.com
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
