@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Xolani Sibande",
     "section": "",
-    "text": "I am an economist with almost a decade of experience in different areas. In particular, my professional experience has been in academia, the financial sector, and government. In academia, I completed a Master’s degree in Econometrics in 2010, a Master’s in Public Administration in 2016, and a PhD in Economics, emphasising financial markets and econometrics in 2020. I continue to publish in the area of financial markets in international journals.\nAs a banking sector analyst, my role involved strategy development and macroeconomic analysis for banks and other African financial institutions. This role involved the execution of projects for major banks in Zambia, Uganda, Botswana and South Africa, amongst others, as part of a team.\nIn government, I conducted macroeconomic analysis on the global, domestic and provincial economies, which was input into provincial policy and budgeting decisions. This role includes forecasting the Gauteng economy and the management of a small team of economists. I also report on the key socio-economic indicators to assess progress regarding current government priorities.\nCurrently, I am focused on central bank research. That is to assess the impact of monetary and macroprudential policies on the economy. I also participate in the monetary policy process, offering views and analysis. Occasionally, I present work at conferences, seminars and workshops.\nParticular areas of interest are Econometrics, Macroeconomics, Finance, Data Science, and Public Policy.\nYou can find my CV here and my research work here.\nYou can also find my data and code here.\nFeel free to contact me at: xolaniss@gmail.com LinkedIn Github"
+    "text": "I am an economist with almost a decade of experience in different areas. In particular, my professional experience has been in academia, the financial sector, and government. In academia, I completed a Master’s degree in Econometrics in 2010, a Master’s in Public Administration in 2016, and a PhD in Economics, emphasising financial markets and econometrics in 2020. I continue to publish in the area of financial markets in international journals.\nAs a banking sector analyst, my role involved strategy development and macroeconomic analysis for banks and other African financial institutions. This role involved the execution of projects for major banks in Zambia, Uganda, Botswana and South Africa, amongst others, as part of a team.\nIn government, I conducted macroeconomic analysis on the global, domestic and provincial economies, which was input into provincial policy and budgeting decisions. This role includes forecasting the Gauteng economy and the management of a small team of economists. I also report on the key socio-economic indicators to assess progress regarding current government priorities.\nCurrently, I am focused on central bank research. That is to assess the impact of monetary and macroprudential policies on the economy. I also participate in the monetary policy process, offering views and analysis. Occasionally, I present work at conferences, seminars and workshops.\nParticular areas of interest are Econometrics, Macroeconomics, Finance, Data Science, and Public Policy."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Finley Malloc",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
   },
   {
     "objectID": "research.html",
@@ -26,5 +26,33 @@
     "title": "CV",
     "section": "",
     "text": "CV"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email \n  Phone \n\n&lt;i class=\"fas fa-map-marker-alt\"&gt;&lt;/i&gt;\n&lt;span&gt;New York, NY&lt;/span&gt;\n\n  GitHub \n  LinkedIn"
+  },
+  {
+    "objectID": "contact.html#contact-me",
+    "href": "contact.html#contact-me",
+    "title": "Contact",
+    "section": "",
+    "text": "Email \n  Phone \n\n&lt;i class=\"fas fa-map-marker-alt\"&gt;&lt;/i&gt;\n&lt;span&gt;New York, NY&lt;/span&gt;\n\n  GitHub \n  LinkedIn"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Finley Malloc",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Finley Malloc",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]

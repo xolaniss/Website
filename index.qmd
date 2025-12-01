@@ -1,9 +1,22 @@
 ---
 title: "Xolani Sibande"
+image: profile.jpeg
+about:
+  template: jolla
+  image-width: 12em
+  image-shape: rounded
+  
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/xolanisibande/
+    - icon: github
+      text: Github
+      href: https://github.com/xolaniss
 ---
 
-
 I am an economist with almost a decade of experience in different areas. In particular, my professional experience has been in academia, the financial sector, and government. In academia, I completed a Master's degree in Econometrics in 2010, a Master's in Public Administration in 2016, and a PhD in Economics, emphasising financial markets and econometrics in 2020. I continue to publish in the area of financial markets in international journals.
+
 
 As a banking sector analyst, my role involved strategy development and macroeconomic analysis for banks and other African financial institutions. This role involved the execution of projects for major banks in Zambia, Uganda, Botswana and South Africa, amongst others, as part of a team.
 
@@ -12,14 +25,6 @@ In government, I conducted macroeconomic analysis on the global, domestic and pr
 Currently, I am focused on central bank research. That is to assess the impact of monetary and macroprudential policies on the economy. I also participate in the monetary policy process, offering views and analysis. Occasionally, I present work at conferences, seminars and workshops.
 
 Particular areas of interest are Econometrics, Macroeconomics, Finance, Data Science, and Public Policy.
-
-You can find my CV [here](CV.html) and my research work [here](research.html).
-
-You can also find my data and code [here](data_code.html).
-
-Feel free to contact me at: xolaniss@gmail.com
-[LinkedIn](linkedin.com/in/xolani-sibande-3b3a7414b)
-[Github](github.com/xolaniss)
 
 
 

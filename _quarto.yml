@@ -2,36 +2,38 @@ project:
   type: website
 
 website:
-  title: "Website"
+  title: ""
+  search: false
   navbar:
     background: dark
-    search: false
-    left:
+
+    right:
       - href: index.qmd
         text: Home
       - research.qmd
       - data_code.qmd
       - CV.qmd
-    # tools:
-    #   - icon: linkedin
-    #     menu:
-    #       - text: Profile
-    #         href: https://www.linkedin.com/in/xolanisibande/
-    #   - icon: github
-    #     menu:
-    #       - text: Profile
-    #         href:  https://github.com/xolaniss
-    #   - icon: email
-    #     menu:
-    #       - text: Email
-    #         href: mailto:xolaniss@gmail.com
-
-
+  page-footer:
+    left: "Copyright 2025, Xolani Sibande"
+    right:
+      - icon: github
+        href: https://github.com/xolaniss
+      - icon: linkedin
+        href: https://www.linkedin.com/in/xolanisibande
+      - icon: envelope
+        href: mailto:xolaniss@gmail.com
+    background: light
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header:
+      - text: |
+          <link rel="stylesheet"
+                href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+filters:
+  - fontawesome
 
 editor: source
 
